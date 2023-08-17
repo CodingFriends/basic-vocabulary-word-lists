@@ -1,0 +1,13 @@
+lekár / lekarka;doctor;;basic, health
+nemocnica;hospital;;basic, health
+lekáreň;pharmacy;;basic, health
+liek proti bolesti;painkiller;;basic, health
+liek;medicine;;basic, health
+bolesť;pain;;basic, health, body
+chrbát ;back ;;basic, health, body
+noha;foot;;basic, health, body
+brucho;stomach;;basic, health, body
+noha;leg;;basic, health, body
+hlava;head;;basic, health, body
+ruka;hand;;basic, health, body
+rameno;arm;;basic, health, body

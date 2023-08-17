@@ -1,0 +1,13 @@
+doctor;의사;;basic, health
+hospital;병원;;basic, health
+pharmacy;약국;;basic, health
+painkiller;진통제;;basic, health
+medicine;약;;basic, health
+pain;고통;;basic, health, body
+back ;등;;basic, health, body
+foot;발;;basic, health, body
+stomach;배;;basic, health, body
+leg;다리;;basic, health, body
+head;머리;;basic, health, body
+hand;손;;basic, health, body
+arm;팔;;basic, health, body

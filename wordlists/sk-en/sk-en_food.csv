@@ -1,0 +1,27 @@
+food;potraviny;;basic, food
+restaurant;reštaurácia;;basic, food
+café;kaviareň;;basic, food
+bar;bar;;basic, food
+menu;menu;;basic, food
+starter;predjedlo;;basic, food
+main course;hlavné jedlo;;basic, food
+dessert;dezert;;basic, food
+bill;účet;;basic, food
+vegetarian;vegetariánske;;basic, food
+vegan;vegánske;;basic, food
+gluten-free;bezlepkové;;basic, food
+fish ;ryba;;basic, food
+meat;mäso;;basic, food
+salad;šalát;;basic, food
+milk;mlieko;;basic, food
+cheese;syr;;basic, food
+fruits;ovocie;;basic, food
+vegetables;zelenina;;basic, food
+nuts;orechy;;basic, food
+coffee;káva;;basic, food
+tea ;čaj ;;basic, food
+water;voda;;basic, food
+wine;víno;;basic, food
+beer ;pivo ;;basic, food
+non-alcoholic;nealkoholické;;basic, food
+Cheers!;Na zdravie!;;basic, food

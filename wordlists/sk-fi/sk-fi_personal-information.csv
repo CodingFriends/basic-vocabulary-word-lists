@@ -1,0 +1,11 @@
+etunimi;(krstné) meno;;basic, personal-information
+sukunimi;priezvisko;;basic, personal-information
+osoite;adresa;;basic, personal-information
+maa;krajina;;basic, personal-information
+syntymäpaikka;rodisko;;basic, personal-information
+syntymäaika;dátum narodenia;;basic, personal-information
+ammatti;povolanie;;basic, personal-information
+mies;muž;;basic, personal-information
+nainen;žena;;basic, personal-information
+aikuinen;dospelý/a;;basic, personal-information
+lapsi;dieťa;;basic, personal-information

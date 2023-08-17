@@ -1,0 +1,10 @@
+기차;le train;;basic, transport
+버스;le bus;;basic, transport
+자동차;la voiture;;basic, transport
+전차;le tramway;;basic, transport
+택시;le taxi;;basic, transport
+자전거;le vélo;;basic, transport
+걸어서;à pied;;basic, transport
+기차역;la gare;;basic, transport
+버스 터미널;la gare routière;;basic, transport
+정거장;la station;;basic, transport

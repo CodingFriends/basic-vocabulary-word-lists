@@ -1,0 +1,13 @@
+doctor;lääkäri;;basic, health
+hospital;sairaala;;basic, health
+pharmacy;apteekki;;basic, health
+painkiller;särkylääke;;basic, health
+medicine;lääke;;basic, health
+pain;kipu;;basic, health, body
+back ;selkä ;;basic, health, body
+foot;jalka;;basic, health, body
+stomach;vatsa;;basic, health, body
+leg;jalka;;basic, health, body
+head;pää;;basic, health, body
+hand;käsi;;basic, health, body
+arm;käsivarsi;;basic, health, body

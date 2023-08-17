@@ -1,0 +1,10 @@
+smer;suunta;;basic, orientation
+vchod ;sisäänkäynti ;;basic, orientation
+východ;uloskäynti;;basic, orientation
+ulica;katu;;basic, orientation
+cesta;tie;;basic, orientation
+námestie;tori;;basic, orientation
+vpravo ;oikealla;;basic, orientation
+vľavo;vasemmalla;;basic, orientation
+rovno;suoraan eteenpäin;;basic, orientation
+späť;takaisin;;basic, orientation

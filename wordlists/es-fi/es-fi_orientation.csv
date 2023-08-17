@@ -1,0 +1,10 @@
+suunta;la dirección;;basic, orientation
+sisäänkäynti ;la entrada ;;basic, orientation
+uloskäynti;la salida;;basic, orientation
+katu;la calle;;basic, orientation
+tie;el camino;;basic, orientation
+tori;la plaza;;basic, orientation
+oikealla;(a) la derecha;;basic, orientation
+vasemmalla;(a) la izquierda;;basic, orientation
+suoraan eteenpäin;seguido;;basic, orientation
+takaisin;de vuelta;;basic, orientation

@@ -1,0 +1,10 @@
+la dirección;die Richtung;;basic, orientation
+la entrada ;der Eingang ;;basic, orientation
+la salida;der Ausgang;;basic, orientation
+la calle;die Straße;;basic, orientation
+el camino;der Weg;;basic, orientation
+la plaza;der Platz;;basic, orientation
+(a) la derecha;rechts ;;basic, orientation
+(a) la izquierda;links;;basic, orientation
+seguido;geradeaus;;basic, orientation
+de vuelta;zurück;;basic, orientation

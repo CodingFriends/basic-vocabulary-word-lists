@@ -1,0 +1,27 @@
+le repas;potraviny;;basic, food
+le restaurant;reštaurácia;;basic, food
+le café;kaviareň;;basic, food
+le bar;bar;;basic, food
+le menu;menu;;basic, food
+l’entrée;predjedlo;;basic, food
+le plat principal;hlavné jedlo;;basic, food
+le dessert;dezert;;basic, food
+l’addition;účet;;basic, food
+végétarien(ne);vegetariánske;;basic, food
+végan;vegánske;;basic, food
+sans gluten;bezlepkové;;basic, food
+le poisson ;ryba;;basic, food
+la viande;mäso;;basic, food
+la salade;šalát;;basic, food
+le lait;mlieko;;basic, food
+le fromage;syr;;basic, food
+les fruits;ovocie;;basic, food
+les légumes;zelenina;;basic, food
+les noix;orechy;;basic, food
+le café;káva;;basic, food
+le thé ;čaj ;;basic, food
+l’eau;voda;;basic, food
+le vin;víno;;basic, food
+la bière ;pivo ;;basic, food
+sans alcool;nealkoholické;;basic, food
+À ta santé !;Na zdravie!;;basic, food

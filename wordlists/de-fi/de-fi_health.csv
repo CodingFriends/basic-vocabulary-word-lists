@@ -1,0 +1,13 @@
+lääkäri;der Arzt / die Ärztin;;basic, health
+sairaala;das Krankenhaus;;basic, health
+apteekki;die Apotheke;;basic, health
+särkylääke;die Schmerzmittel;;basic, health
+lääke;das Medikament;;basic, health
+kipu;die Schmerzen;;basic, health, body
+selkä ;der Rücken ;;basic, health, body
+jalka;der Fuß;;basic, health, body
+vatsa;der Bauch;;basic, health, body
+jalka;das Bein;;basic, health, body
+pää;der Kopf;;basic, health, body
+käsi;die Hand;;basic, health, body
+käsivarsi;der Arm;;basic, health, body

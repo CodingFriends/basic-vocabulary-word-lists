@@ -1,0 +1,20 @@
+čas;el tiempo;;basic, time
+deň ;el día ;;basic, time
+týždeň;la semana;;basic, time
+mesiac;el mes;;basic, time
+rok ;el año ;;basic, time
+Pondelok;lunes;;basic, time
+Utorok;martes;;basic, time
+Streda;miércoles;;basic, time
+Štvrtok;jueves;;basic, time
+Piatok;viernes;;basic, time
+Sobota ;sábado ;;basic, time
+Nedeľa;domingo;;basic, time
+ráno;por la mañana;;basic, time
+popoludnie;por la tarde;;basic, time
+večer;por la tarde;;basic, time
+v noci;por la noche;;basic, time
+skôr;antes;;basic, time
+neskôr;más tarde;;basic, time
+v čase;a tiempo;;basic, time
+mešká;con retraso;;basic, time

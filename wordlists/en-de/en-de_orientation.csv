@@ -1,0 +1,10 @@
+die Richtung;direction;;basic, orientation
+der Eingang ;entrance ;;basic, orientation
+der Ausgang;exit;;basic, orientation
+die Straße;street;;basic, orientation
+der Weg;way;;basic, orientation
+der Platz;square;;basic, orientation
+rechts ;right ;;basic, orientation
+links;left;;basic, orientation
+geradeaus;straight ahead;;basic, orientation
+zurück;back;;basic, orientation

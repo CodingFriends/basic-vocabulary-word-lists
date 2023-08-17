@@ -1,0 +1,10 @@
+방향;die Richtung;;basic, orientation
+입구;der Eingang ;;basic, orientation
+출구;der Ausgang;;basic, orientation
+거리;die Straße;;basic, orientation
+길;der Weg;;basic, orientation
+광장;der Platz;;basic, orientation
+오른쪽;rechts ;;basic, orientation
+왼쪽;links;;basic, orientation
+직진;geradeaus;;basic, orientation
+뒤로;zurück;;basic, orientation

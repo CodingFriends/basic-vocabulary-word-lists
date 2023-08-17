@@ -1,0 +1,27 @@
+ruoka;음식;;basic, food
+ravintola;식당;;basic, food
+kahvila;카페;;basic, food
+baari;바;;basic, food
+ruokalista;메뉴;;basic, food
+alkupala;전채 요리;;basic, food
+pääruoka;주 요리;;basic, food
+jälkiruoka;디저트;;basic, food
+lasku;계산서;;basic, food
+kasvissyöjä;채식;;basic, food
+vegaani;비건;;basic, food
+gluteeniton;글루텐 없는;;basic, food
+kala ;생선;;basic, food
+liha;고기;;basic, food
+salaatti;샐러드;;basic, food
+maito;우유;;basic, food
+juusto;치즈;;basic, food
+hedelmät;과일;;basic, food
+vihannekset;야채;;basic, food
+pähkinät;견과류;;basic, food
+kahvi;커피;;basic, food
+tee ;차;;basic, food
+vesi;물;;basic, food
+viini;와인;;basic, food
+olut ;맥주;;basic, food
+alkoholiton;무알콜;;basic, food
+Kippis!;건배;;basic, food

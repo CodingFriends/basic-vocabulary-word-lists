@@ -1,0 +1,10 @@
+der Zug;vlak;;basic, transport
+der Bus;autobus;;basic, transport
+das Auto;auto;;basic, transport
+die Straßenbahn;električka;;basic, transport
+das Taxi;taxík;;basic, transport
+das Fahrrad;bicykel;;basic, transport
+zu Fuß;pešo;;basic, transport
+der Bahnhof;železničná stanica;;basic, transport
+der Busbahnhof;autobusová stanica;;basic, transport
+die Haltestelle;zastávka;;basic, transport

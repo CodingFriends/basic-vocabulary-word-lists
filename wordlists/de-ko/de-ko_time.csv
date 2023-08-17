@@ -1,0 +1,20 @@
+시간;Zeit;;basic, time
+날;der Tag ;;basic, time
+주;die Woche;;basic, time
+월;der Monat;;basic, time
+년;das Jahr ;;basic, time
+월요일;Montag;;basic, time
+화요일;Dienstag;;basic, time
+수요일;Mittwoch;;basic, time
+목요일;Donnerstag;;basic, time
+금요일;Freitag;;basic, time
+토요일;Samstag ;;basic, time
+일요일;Sonntag;;basic, time
+아침에;morgens;;basic, time
+오후에;nachmittags;;basic, time
+저녁에;abends;;basic, time
+밤에;nachts;;basic, time
+이전에;früher;;basic, time
+나중에;später;;basic, time
+정확한;pünktlich;;basic, time
+늦어진;verspätet;;basic, time

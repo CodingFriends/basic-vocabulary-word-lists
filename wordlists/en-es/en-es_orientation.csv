@@ -1,0 +1,10 @@
+la dirección;direction;;basic, orientation
+la entrada ;entrance ;;basic, orientation
+la salida;exit;;basic, orientation
+la calle;street;;basic, orientation
+el camino;way;;basic, orientation
+la plaza;square;;basic, orientation
+(a) la derecha;right ;;basic, orientation
+(a) la izquierda;left;;basic, orientation
+seguido;straight ahead;;basic, orientation
+de vuelta;back;;basic, orientation

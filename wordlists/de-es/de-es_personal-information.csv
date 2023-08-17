@@ -1,0 +1,11 @@
+nombre;der Vorname;;basic, personal-information
+apellido;der Nachname;;basic, personal-information
+la dirección;die Adresse;;basic, personal-information
+el país;das Land;;basic, personal-information
+el lugar de nacimiento;der Geburtsort;;basic, personal-information
+la fecha de nacimiento;das Geburtsdatum;;basic, personal-information
+la profesión;der Beruf;;basic, personal-information
+el hombre;der Mann ;;basic, personal-information
+la mujer;die Frau;;basic, personal-information
+el adulto;der / die Erwachsene;;basic, personal-information
+el niño;das Kind;;basic, personal-information

@@ -1,0 +1,10 @@
+방향;smer;;basic, orientation
+입구;vchod ;;basic, orientation
+출구;východ;;basic, orientation
+거리;ulica;;basic, orientation
+길;cesta;;basic, orientation
+광장;námestie;;basic, orientation
+오른쪽;vpravo ;;basic, orientation
+왼쪽;vľavo;;basic, orientation
+직진;rovno;;basic, orientation
+뒤로;späť;;basic, orientation

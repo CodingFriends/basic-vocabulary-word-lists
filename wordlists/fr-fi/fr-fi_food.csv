@@ -1,0 +1,27 @@
+ruoka;le repas;;basic, food
+ravintola;le restaurant;;basic, food
+kahvila;le café;;basic, food
+baari;le bar;;basic, food
+ruokalista;le menu;;basic, food
+alkupala;l’entrée;;basic, food
+pääruoka;le plat principal;;basic, food
+jälkiruoka;le dessert;;basic, food
+lasku;l’addition;;basic, food
+kasvissyöjä;végétarien(ne);;basic, food
+vegaani;végan;;basic, food
+gluteeniton;sans gluten;;basic, food
+kala ;le poisson ;;basic, food
+liha;la viande;;basic, food
+salaatti;la salade;;basic, food
+maito;le lait;;basic, food
+juusto;le fromage;;basic, food
+hedelmät;les fruits;;basic, food
+vihannekset;les légumes;;basic, food
+pähkinät;les noix;;basic, food
+kahvi;le café;;basic, food
+tee ;le thé ;;basic, food
+vesi;l’eau;;basic, food
+viini;le vin;;basic, food
+olut ;la bière ;;basic, food
+alkoholiton;sans alcool;;basic, food
+Kippis!;À ta santé !;;basic, food

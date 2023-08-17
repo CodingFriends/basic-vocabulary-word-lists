@@ -1,0 +1,27 @@
+le repas;음식;;basic, food
+le restaurant;식당;;basic, food
+le café;카페;;basic, food
+le bar;바;;basic, food
+le menu;메뉴;;basic, food
+l’entrée;전채 요리;;basic, food
+le plat principal;주 요리;;basic, food
+le dessert;디저트;;basic, food
+l’addition;계산서;;basic, food
+végétarien(ne);채식;;basic, food
+végan;비건;;basic, food
+sans gluten;글루텐 없는;;basic, food
+le poisson ;생선;;basic, food
+la viande;고기;;basic, food
+la salade;샐러드;;basic, food
+le lait;우유;;basic, food
+le fromage;치즈;;basic, food
+les fruits;과일;;basic, food
+les légumes;야채;;basic, food
+les noix;견과류;;basic, food
+le café;커피;;basic, food
+le thé ;차;;basic, food
+l’eau;물;;basic, food
+le vin;와인;;basic, food
+la bière ;맥주;;basic, food
+sans alcool;무알콜;;basic, food
+À ta santé !;건배;;basic, food

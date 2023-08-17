@@ -1,0 +1,27 @@
+음식;food;;basic, food
+식당;restaurant;;basic, food
+카페;café;;basic, food
+바;bar;;basic, food
+메뉴;menu;;basic, food
+전채 요리;starter;;basic, food
+주 요리;main course;;basic, food
+디저트;dessert;;basic, food
+계산서;bill;;basic, food
+채식;vegetarian;;basic, food
+비건;vegan;;basic, food
+글루텐 없는;gluten-free;;basic, food
+생선;fish ;;basic, food
+고기;meat;;basic, food
+샐러드;salad;;basic, food
+우유;milk;;basic, food
+치즈;cheese;;basic, food
+과일;fruits;;basic, food
+야채;vegetables;;basic, food
+견과류;nuts;;basic, food
+커피;coffee;;basic, food
+차;tea ;;basic, food
+물;water;;basic, food
+와인;wine;;basic, food
+맥주;beer ;;basic, food
+무알콜;non-alcoholic;;basic, food
+건배;Cheers!;;basic, food

@@ -1,0 +1,11 @@
+이름;nombre;;basic, personal-information
+성;apellido;;basic, personal-information
+주소;la dirección;;basic, personal-information
+나라;el país;;basic, personal-information
+출생지;el lugar de nacimiento;;basic, personal-information
+생년월일;la fecha de nacimiento;;basic, personal-information
+직업;la profesión;;basic, personal-information
+남자;el hombre;;basic, personal-information
+여자;la mujer;;basic, personal-information
+성인;el adulto;;basic, personal-information
+아이;el niño;;basic, personal-information

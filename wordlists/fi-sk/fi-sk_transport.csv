@@ -1,0 +1,10 @@
+vlak;juna;;basic, transport
+autobus;bussi;;basic, transport
+auto;auto;;basic, transport
+električka;raitiovaunu;;basic, transport
+taxík;taksi;;basic, transport
+bicykel;polkupyörä;;basic, transport
+pešo;jalkaisin;;basic, transport
+železničná stanica;rautatieasema ;;basic, transport
+autobusová stanica;linja-autoasema;;basic, transport
+zastávka;pysäkki;;basic, transport

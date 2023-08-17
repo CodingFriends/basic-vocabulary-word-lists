@@ -1,0 +1,27 @@
+la comida;le repas;;basic, food
+el restaurante;le restaurant;;basic, food
+el café;le café;;basic, food
+el bar;le bar;;basic, food
+el menú;le menu;;basic, food
+el aperitivo;l’entrée;;basic, food
+el plato principal;le plat principal;;basic, food
+el postre;le dessert;;basic, food
+la cuenta;l’addition;;basic, food
+vegetariano;végétarien(ne);;basic, food
+vegano;végan;;basic, food
+sin gluten;sans gluten;;basic, food
+el pescado ;le poisson ;;basic, food
+la carne;la viande;;basic, food
+el ensalada;la salade;;basic, food
+la leche;le lait;;basic, food
+el queso;le fromage;;basic, food
+las frutas;les fruits;;basic, food
+las verduras;les légumes;;basic, food
+los frutos secos;les noix;;basic, food
+el café;le café;;basic, food
+el té ;le thé ;;basic, food
+la agua;l’eau;;basic, food
+el vino;le vin;;basic, food
+la cerveza ;la bière ;;basic, food
+sin alcohol;sans alcool;;basic, food
+¡Salud!;À ta santé !;;basic, food

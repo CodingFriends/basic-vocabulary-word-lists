@@ -1,0 +1,20 @@
+시간;čas;;basic, time
+날;deň ;;basic, time
+주;týždeň;;basic, time
+월;mesiac;;basic, time
+년;rok ;;basic, time
+월요일;Pondelok;;basic, time
+화요일;Utorok;;basic, time
+수요일;Streda;;basic, time
+목요일;Štvrtok;;basic, time
+금요일;Piatok;;basic, time
+토요일;Sobota ;;basic, time
+일요일;Nedeľa;;basic, time
+아침에;ráno;;basic, time
+오후에;popoludnie;;basic, time
+저녁에;večer;;basic, time
+밤에;v noci;;basic, time
+이전에;skôr;;basic, time
+나중에;neskôr;;basic, time
+정확한;v čase;;basic, time
+늦어진;mešká;;basic, time

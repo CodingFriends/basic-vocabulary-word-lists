@@ -1,0 +1,10 @@
+le train;der Zug;;basic, transport
+le bus;der Bus;;basic, transport
+la voiture;das Auto;;basic, transport
+le tramway;die Straßenbahn;;basic, transport
+le taxi;das Taxi;;basic, transport
+le vélo;das Fahrrad;;basic, transport
+à pied;zu Fuß;;basic, transport
+la gare;der Bahnhof;;basic, transport
+la gare routière;der Busbahnhof;;basic, transport
+la station;die Haltestelle;;basic, transport

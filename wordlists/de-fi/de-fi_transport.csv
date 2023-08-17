@@ -1,0 +1,10 @@
+juna;der Zug;;basic, transport
+bussi;der Bus;;basic, transport
+auto;das Auto;;basic, transport
+raitiovaunu;die Straßenbahn;;basic, transport
+taksi;das Taxi;;basic, transport
+polkupyörä;das Fahrrad;;basic, transport
+jalkaisin;zu Fuß;;basic, transport
+rautatieasema ;der Bahnhof;;basic, transport
+linja-autoasema;der Busbahnhof;;basic, transport
+pysäkki;die Haltestelle;;basic, transport

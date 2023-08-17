@@ -1,0 +1,13 @@
+le/la médecin;doctor;;basic, health
+l’hôpital;hospital;;basic, health
+la pharmacie;pharmacy;;basic, health
+l’antidouleur;painkiller;;basic, health
+le médicament;medicine;;basic, health
+la douleur;pain;;basic, health, body
+le dos ;back ;;basic, health, body
+le pied;foot;;basic, health, body
+l’abdomen;stomach;;basic, health, body
+la jambe;leg;;basic, health, body
+la tête;head;;basic, health, body
+la main;hand;;basic, health, body
+le bras;arm;;basic, health, body

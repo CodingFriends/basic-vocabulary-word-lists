@@ -1,0 +1,10 @@
+train;el tren;;basic, transport
+bus;el autobús;;basic, transport
+car;el coche;;basic, transport
+tram;el tranvía;;basic, transport
+taxi, cab;el taxi;;basic, transport
+bicycle;la bicicleta;;basic, transport
+on foot;a pie;;basic, transport
+train station ;estación de tren ;;basic, transport
+bus station;estación de autobuses;;basic, transport
+stop;parada de autobús;;basic, transport

@@ -1,0 +1,20 @@
+aika;čas;;basic, time
+päivä ;deň ;;basic, time
+viikko;týždeň;;basic, time
+kuukausi;mesiac;;basic, time
+vuosi ;rok ;;basic, time
+maanantai;Pondelok;;basic, time
+tiistai;Utorok;;basic, time
+keskiviikko;Streda;;basic, time
+torstai;Štvrtok;;basic, time
+perjantai;Piatok;;basic, time
+lauantai ;Sobota ;;basic, time
+sunnuntai;Nedeľa;;basic, time
+aamu;ráno;;basic, time
+iltapäivä;popoludnie;;basic, time
+illalla;večer;;basic, time
+yöllä;v noci;;basic, time
+aiemmin;skôr;;basic, time
+myöhemmin;neskôr;;basic, time
+ajallaan;v čase;;basic, time
+viivästynyt;mešká;;basic, time

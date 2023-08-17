@@ -1,0 +1,11 @@
+etunimi;first name;;basic, personal-information
+sukunimi;last name;;basic, personal-information
+osoite;address;;basic, personal-information
+maa;country;;basic, personal-information
+syntymäpaikka;place of birth;;basic, personal-information
+syntymäaika;date of birth;;basic, personal-information
+ammatti;profession, job;;basic, personal-information
+mies;man;;basic, personal-information
+nainen;woman;;basic, personal-information
+aikuinen;adult;;basic, personal-information
+lapsi;child;;basic, personal-information

@@ -1,0 +1,11 @@
+etunimi;이름;;basic, personal-information
+sukunimi;성;;basic, personal-information
+osoite;주소;;basic, personal-information
+maa;나라;;basic, personal-information
+syntymäpaikka;출생지;;basic, personal-information
+syntymäaika;생년월일;;basic, personal-information
+ammatti;직업;;basic, personal-information
+mies;남자;;basic, personal-information
+nainen;여자;;basic, personal-information
+aikuinen;성인;;basic, personal-information
+lapsi;아이;;basic, personal-information

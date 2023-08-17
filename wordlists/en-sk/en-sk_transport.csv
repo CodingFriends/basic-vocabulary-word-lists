@@ -1,0 +1,10 @@
+vlak;train;;basic, transport
+autobus;bus;;basic, transport
+auto;car;;basic, transport
+električka;tram;;basic, transport
+taxík;taxi, cab;;basic, transport
+bicykel;bicycle;;basic, transport
+pešo;on foot;;basic, transport
+železničná stanica;train station ;;basic, transport
+autobusová stanica;bus station;;basic, transport
+zastávka;stop;;basic, transport

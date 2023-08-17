@@ -1,0 +1,20 @@
+aika;time;;basic, time
+päivä ;day ;;basic, time
+viikko;week;;basic, time
+kuukausi;month;;basic, time
+vuosi ;year ;;basic, time
+maanantai;Monday;;basic, time
+tiistai;Tuesday;;basic, time
+keskiviikko;Wednesday;;basic, time
+torstai;Thursday;;basic, time
+perjantai;Friday;;basic, time
+lauantai ;Saturday ;;basic, time
+sunnuntai;Sunday;;basic, time
+aamu;in the morning;;basic, time
+iltapäivä;in the afternoon;;basic, time
+illalla;in the evening;;basic, time
+yöllä;at night;;basic, time
+aiemmin;earlier;;basic, time
+myöhemmin;later;;basic, time
+ajallaan;on time;;basic, time
+viivästynyt;delayed;;basic, time

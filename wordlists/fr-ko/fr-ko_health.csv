@@ -1,0 +1,13 @@
+의사;le/la médecin;;basic, health
+병원;l’hôpital;;basic, health
+약국;la pharmacie;;basic, health
+진통제;l’antidouleur;;basic, health
+약;le médicament;;basic, health
+고통;la douleur;;basic, health, body
+등;le dos ;;basic, health, body
+발;le pied;;basic, health, body
+배;l’abdomen;;basic, health, body
+다리;la jambe;;basic, health, body
+머리;la tête;;basic, health, body
+손;la main;;basic, health, body
+팔;le bras;;basic, health, body

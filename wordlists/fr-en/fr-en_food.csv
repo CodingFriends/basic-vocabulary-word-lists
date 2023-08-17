@@ -1,0 +1,27 @@
+food;le repas;;basic, food
+restaurant;le restaurant;;basic, food
+café;le café;;basic, food
+bar;le bar;;basic, food
+menu;le menu;;basic, food
+starter;l’entrée;;basic, food
+main course;le plat principal;;basic, food
+dessert;le dessert;;basic, food
+bill;l’addition;;basic, food
+vegetarian;végétarien(ne);;basic, food
+vegan;végan;;basic, food
+gluten-free;sans gluten;;basic, food
+fish ;le poisson ;;basic, food
+meat;la viande;;basic, food
+salad;la salade;;basic, food
+milk;le lait;;basic, food
+cheese;le fromage;;basic, food
+fruits;les fruits;;basic, food
+vegetables;les légumes;;basic, food
+nuts;les noix;;basic, food
+coffee;le café;;basic, food
+tea ;le thé ;;basic, food
+water;l’eau;;basic, food
+wine;le vin;;basic, food
+beer ;la bière ;;basic, food
+non-alcoholic;sans alcool;;basic, food
+Cheers!;À ta santé !;;basic, food

@@ -1,0 +1,11 @@
+(krstné) meno;der Vorname;;basic, personal-information
+priezvisko;der Nachname;;basic, personal-information
+adresa;die Adresse;;basic, personal-information
+krajina;das Land;;basic, personal-information
+rodisko;der Geburtsort;;basic, personal-information
+dátum narodenia;das Geburtsdatum;;basic, personal-information
+povolanie;der Beruf;;basic, personal-information
+muž;der Mann ;;basic, personal-information
+žena;die Frau;;basic, personal-information
+dospelý/a;der / die Erwachsene;;basic, personal-information
+dieťa;das Kind;;basic, personal-information

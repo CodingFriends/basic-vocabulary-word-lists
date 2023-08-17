@@ -1,0 +1,10 @@
+smer;la dirección;;basic, orientation
+vchod ;la entrada ;;basic, orientation
+východ;la salida;;basic, orientation
+ulica;la calle;;basic, orientation
+cesta;el camino;;basic, orientation
+námestie;la plaza;;basic, orientation
+vpravo ;(a) la derecha;;basic, orientation
+vľavo;(a) la izquierda;;basic, orientation
+rovno;seguido;;basic, orientation
+späť;de vuelta;;basic, orientation

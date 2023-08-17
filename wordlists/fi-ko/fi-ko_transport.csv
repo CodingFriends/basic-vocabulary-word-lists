@@ -1,0 +1,10 @@
+기차;juna;;basic, transport
+버스;bussi;;basic, transport
+자동차;auto;;basic, transport
+전차;raitiovaunu;;basic, transport
+택시;taksi;;basic, transport
+자전거;polkupyörä;;basic, transport
+걸어서;jalkaisin;;basic, transport
+기차역;rautatieasema ;;basic, transport
+버스 터미널;linja-autoasema;;basic, transport
+정거장;pysäkki;;basic, transport

@@ -1,0 +1,10 @@
+기차;vlak;;basic, transport
+버스;autobus;;basic, transport
+자동차;auto;;basic, transport
+전차;električka;;basic, transport
+택시;taxík;;basic, transport
+자전거;bicykel;;basic, transport
+걸어서;pešo;;basic, transport
+기차역;železničná stanica;;basic, transport
+버스 터미널;autobusová stanica;;basic, transport
+정거장;zastávka;;basic, transport

@@ -1,0 +1,20 @@
+time;Zeit;;basic, time
+day ;der Tag ;;basic, time
+week;die Woche;;basic, time
+month;der Monat;;basic, time
+year ;das Jahr ;;basic, time
+Monday;Montag;;basic, time
+Tuesday;Dienstag;;basic, time
+Wednesday;Mittwoch;;basic, time
+Thursday;Donnerstag;;basic, time
+Friday;Freitag;;basic, time
+Saturday ;Samstag ;;basic, time
+Sunday;Sonntag;;basic, time
+in the morning;morgens;;basic, time
+in the afternoon;nachmittags;;basic, time
+in the evening;abends;;basic, time
+at night;nachts;;basic, time
+earlier;früher;;basic, time
+later;später;;basic, time
+on time;pünktlich;;basic, time
+delayed;verspätet;;basic, time

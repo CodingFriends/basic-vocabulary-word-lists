@@ -1,0 +1,11 @@
+(krstné) meno;이름;;basic, personal-information
+priezvisko;성;;basic, personal-information
+adresa;주소;;basic, personal-information
+krajina;나라;;basic, personal-information
+rodisko;출생지;;basic, personal-information
+dátum narodenia;생년월일;;basic, personal-information
+povolanie;직업;;basic, personal-information
+muž;남자;;basic, personal-information
+žena;여자;;basic, personal-information
+dospelý/a;성인;;basic, personal-information
+dieťa;아이;;basic, personal-information

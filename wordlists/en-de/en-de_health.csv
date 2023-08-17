@@ -1,0 +1,13 @@
+der Arzt / die Ärztin;doctor;;basic, health
+das Krankenhaus;hospital;;basic, health
+die Apotheke;pharmacy;;basic, health
+die Schmerzmittel;painkiller;;basic, health
+das Medikament;medicine;;basic, health
+die Schmerzen;pain;;basic, health, body
+der Rücken ;back ;;basic, health, body
+der Fuß;foot;;basic, health, body
+der Bauch;stomach;;basic, health, body
+das Bein;leg;;basic, health, body
+der Kopf;head;;basic, health, body
+die Hand;hand;;basic, health, body
+der Arm;arm;;basic, health, body

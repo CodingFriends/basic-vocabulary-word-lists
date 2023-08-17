@@ -1,0 +1,10 @@
+train;기차;;basic, transport
+bus;버스;;basic, transport
+car;자동차;;basic, transport
+tram;전차;;basic, transport
+taxi, cab;택시;;basic, transport
+bicycle;자전거;;basic, transport
+on foot;걸어서;;basic, transport
+train station ;기차역;;basic, transport
+bus station;버스 터미널;;basic, transport
+stop;정거장;;basic, transport

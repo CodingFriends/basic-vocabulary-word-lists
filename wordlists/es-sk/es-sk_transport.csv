@@ -1,0 +1,10 @@
+vlak;el tren;;basic, transport
+autobus;el autobús;;basic, transport
+auto;el coche;;basic, transport
+električka;el tranvía;;basic, transport
+taxík;el taxi;;basic, transport
+bicykel;la bicicleta;;basic, transport
+pešo;a pie;;basic, transport
+železničná stanica;estación de tren ;;basic, transport
+autobusová stanica;estación de autobuses;;basic, transport
+zastávka;parada de autobús;;basic, transport

@@ -1,0 +1,20 @@
+el tiempo;Zeit;;basic, time
+el día ;der Tag ;;basic, time
+la semana;die Woche;;basic, time
+el mes;der Monat;;basic, time
+el año ;das Jahr ;;basic, time
+lunes;Montag;;basic, time
+martes;Dienstag;;basic, time
+miércoles;Mittwoch;;basic, time
+jueves;Donnerstag;;basic, time
+viernes;Freitag;;basic, time
+sábado ;Samstag ;;basic, time
+domingo;Sonntag;;basic, time
+por la mañana;morgens;;basic, time
+por la tarde;nachmittags;;basic, time
+por la tarde;abends;;basic, time
+por la noche;nachts;;basic, time
+antes;früher;;basic, time
+más tarde;später;;basic, time
+a tiempo;pünktlich;;basic, time
+con retraso;verspätet;;basic, time

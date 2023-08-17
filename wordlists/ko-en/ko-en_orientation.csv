@@ -1,0 +1,10 @@
+direction;방향;;basic, orientation
+entrance ;입구;;basic, orientation
+exit;출구;;basic, orientation
+street;거리;;basic, orientation
+way;길;;basic, orientation
+square;광장;;basic, orientation
+right ;오른쪽;;basic, orientation
+left;왼쪽;;basic, orientation
+straight ahead;직진;;basic, orientation
+back;뒤로;;basic, orientation
