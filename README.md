@@ -7,7 +7,7 @@ All beginnings are difficult. And this is also true for learning languages. Espe
 
 Sure, there are many resources when you want to learn German or French. But what about languages with fewer speakers, such as Slovak or Finnish? Or if your base language is not English?
 
-When we started to work on Wokabulary, an app that lets you practice and collect your individual foreign language words, we did not expect our users to learn such a variety of languages! Many of our users are learning small or even endangered languages. This motivated us to start creating cross-language basic word lists. 
+When we started to work on [Wokabulary](https://wokabulary.com), an app that lets you practice and collect your individual foreign language words, we did not expect our users to learn such a variety of languages! Many of our users are learning small or even endangered languages. This motivated us to start creating cross-language basic word lists. 
 
 ## Essential words and phrases for all situations
 
@@ -31,7 +31,7 @@ The topics are:
 
 ## Want to make your language available?
 
-If you want to help us expand the word lists and make your language accessible from multiple languages and vice versa, please reach out to team@wokabulary.com!
+If you would like to help us expand the word lists and make your language accessible from multiple languages and vice versa, please reach out to team@wokabulary.com!
 
 ## License
 
