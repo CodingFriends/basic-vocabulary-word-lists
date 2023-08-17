@@ -9,7 +9,9 @@ Sure, there are many resources when you want to learn German or French. But what
 
 When we started to work on Wokabulary, an app that lets you practice and collect your individual foreign language words, we did not expect our users to learn such a variety of languages! Many of our users are learning small or even endangered languages. This motivated us to start creating cross-language basic word lists. 
 
-The word lists cover the most basic and useful words and essential phrases. Words that help you find your way, understand the menu in the restaurant, to run errands and to describe your surroundings. All together, over 200 words for each language!
+## Essential words and phrases for all situations
+
+The word lists cover the most basic and useful words and essential phrases. Words that help you find your way, understand the menu in the restaurant, to run errands and to describe your surroundings. Altogether, over 200 words for each language!
 
 The topics are:
 * Basic words
@@ -27,7 +29,11 @@ The topics are:
 * Colors
 * Numbers
 
+## Want to make your language available?
+
 If you want to help us expand the word lists and make your language accessible from multiple languages and vice versa, please reach out to team@wokabulary.com!
+
+## License
 
 This work is licensed under a
 [Attribution-NonCommercial 4.0 International License][cc-by-nc].
