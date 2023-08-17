@@ -1,8 +1,8 @@
 # Free cross-language CSV word lists for English, French, German, Spanish, Finnish, Slovak, and Korean
 
-##
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+##
 
 This work is licensed under a
 [Attribution-NonCommercial 4.0 International][cc-by-nc].
