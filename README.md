@@ -13,6 +13,8 @@ When we started to work on [Wokabulary](https://wokabulary.com), an app that let
 
 The word lists cover the most basic and useful words and essential phrases. Words that help you find your way, understand the menu in the restaurant, to run errands and to describe your surroundings. Altogether, over 200 words for each language!
 
+<img width="1279" alt="screenshot-word-lists-english-slovak" src="https://github.com/CodingFriends/basic-vocabulary-word-lists/assets/3600247/30c93ba8-a930-41b3-9b21-4def5e6254c0">
+
 The topics are:
 * Basic words
 * Essential sentences
