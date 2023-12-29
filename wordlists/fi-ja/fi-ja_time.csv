@@ -1,0 +1,20 @@
+時間;aika;;basic, time
+日;päivä ;;basic, time
+週;viikko;;basic, time
+月;kuukausi;;basic, time
+年;vuosi ;;basic, time
+月曜日;maanantai;;basic, time
+火曜日;tiistai;;basic, time
+水曜日;keskiviikko;;basic, time
+木曜日;torstai;;basic, time
+金曜日;perjantai;;basic, time
+土曜日;lauantai ;;basic, time
+日曜日;sunnuntai;;basic, time
+朝に;aamu;;basic, time
+昼に;iltapäivä;;basic, time
+夜に;illalla;;basic, time
+深夜に;yöllä;;basic, time
+前に/さっき;aiemmin;;basic, time
+後で;myöhemmin;;basic, time
+時間通りに;ajallaan;;basic, time
+遅刻;viivästynyt;;basic, time

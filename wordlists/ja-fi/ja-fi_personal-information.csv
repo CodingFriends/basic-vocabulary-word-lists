@@ -1,0 +1,11 @@
+etunimi;名前;;basic, personal-information
+sukunimi;苗字;;basic, personal-information
+osoite;住所;;basic, personal-information
+maa;国;;basic, personal-information
+syntymäpaikka;出生地;;basic, personal-information
+syntymäaika;生年月日;;basic, personal-information
+ammatti;職業;;basic, personal-information
+mies;男;;basic, personal-information
+nainen;女;;basic, personal-information
+aikuinen;成人;;basic, personal-information
+lapsi;子供;;basic, personal-information

@@ -1,0 +1,27 @@
+food;食べ物;;basic, food
+restaurant;レストラン;;basic, food
+café;カフェ;;basic, food
+bar;バー;;basic, food
+menu;メニュー;;basic, food
+starter;前菜;;basic, food
+main course;メイン料理;;basic, food
+dessert;デザート;;basic, food
+bill;請求書;;basic, food
+vegetarian;ベジタリアン;;basic, food
+vegan;ビーガン;;basic, food
+gluten-free;グルテンフリー;;basic, food
+fish ;魚;;basic, food
+meat;お肉;;basic, food
+salad;サラダ;;basic, food
+milk;牛乳;;basic, food
+cheese;チーズ;;basic, food
+fruits;果物;;basic, food
+vegetables;野菜;;basic, food
+nuts;ナッツ;;basic, food
+coffee;コーヒー;;basic, food
+tea ;お茶;;basic, food
+water;水;;basic, food
+wine;ワイン;;basic, food
+beer ;ビール;;basic, food
+non-alcoholic;ノンアルコール;;basic, food
+Cheers!;乾杯！;;basic, food

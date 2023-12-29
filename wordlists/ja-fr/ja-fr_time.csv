@@ -1,0 +1,20 @@
+le temps;時間;;basic, time
+le jour ;日;;basic, time
+la semaine;週;;basic, time
+le mois;月;;basic, time
+l’année ;年;;basic, time
+lundi;月曜日;;basic, time
+mardi;火曜日;;basic, time
+mercredi;水曜日;;basic, time
+jeudi;木曜日;;basic, time
+vendredi;金曜日;;basic, time
+samedi ;土曜日;;basic, time
+dimanche;日曜日;;basic, time
+le matin;朝に;;basic, time
+l'après-midi;昼に;;basic, time
+le soir;夜に;;basic, time
+la nuit;深夜に;;basic, time
+plus tôt;前に/さっき;;basic, time
+plus tard;後で;;basic, time
+à l'heure;時間通りに;;basic, time
+en retard;遅刻;;basic, time

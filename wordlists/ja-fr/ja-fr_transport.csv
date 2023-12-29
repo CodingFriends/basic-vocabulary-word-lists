@@ -1,0 +1,10 @@
+le train;電車;;basic, transport
+le bus;バス;;basic, transport
+la voiture;車;;basic, transport
+le tramway;トラム;;basic, transport
+le taxi;タクシー;;basic, transport
+le vélo;自転車;;basic, transport
+à pied;歩いて;;basic, transport
+la gare;電車駅;;basic, transport
+la gare routière;バスターミナル;;basic, transport
+la station;駅;;basic, transport

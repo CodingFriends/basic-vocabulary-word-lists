@@ -1,0 +1,10 @@
+train;電車;;basic, transport
+bus;バス;;basic, transport
+car;車;;basic, transport
+tram;トラム;;basic, transport
+taxi, cab;タクシー;;basic, transport
+bicycle;自転車;;basic, transport
+on foot;歩いて;;basic, transport
+train station ;電車駅;;basic, transport
+bus station;バスターミナル;;basic, transport
+stop;駅;;basic, transport

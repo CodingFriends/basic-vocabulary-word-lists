@@ -1,0 +1,10 @@
+suunta;方向;;basic, orientation
+sisäänkäynti ;入口;;basic, orientation
+uloskäynti;出口;;basic, orientation
+katu;道り;;basic, orientation
+tie;道;;basic, orientation
+tori;広場;;basic, orientation
+oikealla;右;;basic, orientation
+vasemmalla;左;;basic, orientation
+suoraan eteenpäin;まっすぐ;;basic, orientation
+takaisin;バック;;basic, orientation

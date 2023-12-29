@@ -1,0 +1,13 @@
+医者;doctor;;basic, health
+病院;hospital;;basic, health
+薬局;pharmacy;;basic, health
+痛み止め;painkiller;;basic, health
+薬;medicine;;basic, health
+痛み;pain;;basic, health, body
+背中;back ;;basic, health, body
+足;foot;;basic, health, body
+お腹;stomach;;basic, health, body
+脚;leg;;basic, health, body
+頭;head;;basic, health, body
+手;hand;;basic, health, body
+腕;arm;;basic, health, body

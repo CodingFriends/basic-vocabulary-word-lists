@@ -1,0 +1,13 @@
+lääkäri;医者;;basic, health
+sairaala;病院;;basic, health
+apteekki;薬局;;basic, health
+särkylääke;痛み止め;;basic, health
+lääke;薬;;basic, health
+kipu;痛み;;basic, health, body
+selkä ;背中;;basic, health, body
+jalka;足;;basic, health, body
+vatsa;お腹;;basic, health, body
+jalka;脚;;basic, health, body
+pää;頭;;basic, health, body
+käsi;手;;basic, health, body
+käsivarsi;腕;;basic, health, body

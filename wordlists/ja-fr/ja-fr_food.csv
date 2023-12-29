@@ -1,0 +1,27 @@
+le repas;食べ物;;basic, food
+le restaurant;レストラン;;basic, food
+le café;カフェ;;basic, food
+le bar;バー;;basic, food
+le menu;メニュー;;basic, food
+l’entrée;前菜;;basic, food
+le plat principal;メイン料理;;basic, food
+le dessert;デザート;;basic, food
+l’addition;請求書;;basic, food
+végétarien(ne);ベジタリアン;;basic, food
+végan;ビーガン;;basic, food
+sans gluten;グルテンフリー;;basic, food
+le poisson ;魚;;basic, food
+la viande;お肉;;basic, food
+la salade;サラダ;;basic, food
+le lait;牛乳;;basic, food
+le fromage;チーズ;;basic, food
+les fruits;果物;;basic, food
+les légumes;野菜;;basic, food
+les noix;ナッツ;;basic, food
+le café;コーヒー;;basic, food
+le thé ;お茶;;basic, food
+l’eau;水;;basic, food
+le vin;ワイン;;basic, food
+la bière ;ビール;;basic, food
+sans alcool;ノンアルコール;;basic, food
+À ta santé !;乾杯！;;basic, food
