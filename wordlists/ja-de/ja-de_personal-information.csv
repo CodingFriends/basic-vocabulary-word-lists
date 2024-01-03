@@ -1,0 +1,11 @@
+der Vorname;名前;;basic, personal-information
+der Nachname;苗字;;basic, personal-information
+die Adresse;住所;;basic, personal-information
+das Land;国;;basic, personal-information
+der Geburtsort;出生地;;basic, personal-information
+das Geburtsdatum;生年月日;;basic, personal-information
+der Beruf;職業;;basic, personal-information
+der Mann ;男;;basic, personal-information
+die Frau;女;;basic, personal-information
+der / die Erwachsene;成人;;basic, personal-information
+das Kind;子供;;basic, personal-information

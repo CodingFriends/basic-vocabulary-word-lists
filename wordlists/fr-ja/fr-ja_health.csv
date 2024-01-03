@@ -1,0 +1,13 @@
+医者;le/la médecin;;basic, health
+病院;l’hôpital;;basic, health
+薬局;la pharmacie;;basic, health
+痛み止め;l’antidouleur;;basic, health
+薬;le médicament;;basic, health
+痛み;la douleur;;basic, health, body
+背中;le dos ;;basic, health, body
+足;le pied;;basic, health, body
+お腹;l’abdomen;;basic, health, body
+脚;la jambe;;basic, health, body
+頭;la tête;;basic, health, body
+手;la main;;basic, health, body
+腕;le bras;;basic, health, body

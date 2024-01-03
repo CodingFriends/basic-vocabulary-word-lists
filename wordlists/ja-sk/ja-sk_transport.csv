@@ -1,0 +1,10 @@
+vlak;電車;;basic, transport
+autobus;バス;;basic, transport
+auto;車;;basic, transport
+električka;トラム;;basic, transport
+taxík;タクシー;;basic, transport
+bicykel;自転車;;basic, transport
+pešo;歩いて;;basic, transport
+železničná stanica;電車駅;;basic, transport
+autobusová stanica;バスターミナル;;basic, transport
+zastávka;駅;;basic, transport

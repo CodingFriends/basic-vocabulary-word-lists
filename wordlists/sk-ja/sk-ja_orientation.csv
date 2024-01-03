@@ -1,0 +1,10 @@
+方向;smer;;basic, orientation
+入口;vchod ;;basic, orientation
+出口;východ;;basic, orientation
+道り;ulica;;basic, orientation
+道;cesta;;basic, orientation
+広場;námestie;;basic, orientation
+右;vpravo ;;basic, orientation
+左;vľavo;;basic, orientation
+まっすぐ;rovno;;basic, orientation
+バック;späť;;basic, orientation

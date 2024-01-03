@@ -1,0 +1,10 @@
+方向;방향;;basic, orientation
+入口;입구;;basic, orientation
+出口;출구;;basic, orientation
+道り;거리;;basic, orientation
+道;길;;basic, orientation
+広場;광장;;basic, orientation
+右;오른쪽;;basic, orientation
+左;왼쪽;;basic, orientation
+まっすぐ;직진;;basic, orientation
+バック;뒤로;;basic, orientation

@@ -1,0 +1,10 @@
+기차;電車;;basic, transport
+버스;バス;;basic, transport
+자동차;車;;basic, transport
+전차;トラム;;basic, transport
+택시;タクシー;;basic, transport
+자전거;自転車;;basic, transport
+걸어서;歩いて;;basic, transport
+기차역;電車駅;;basic, transport
+버스 터미널;バスターミナル;;basic, transport
+정거장;駅;;basic, transport
